@@ -171,11 +171,6 @@ sid_pin: PB15
 encoder_pins: ^PB14, ^PB10
 click_pin: ^!PB2
 
-[bed_screws]
-screw1: 73, 41
-screw2: 243, 41
-screw3: 243, 213
-screw4: 73, 213
 
 [screws_tilt_adjust]
 screw1: 73, 41
